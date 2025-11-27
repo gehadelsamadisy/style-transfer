@@ -71,6 +71,11 @@ _This approach demonstrates neural style transfer as an image optimization probl
 
 - **Visual Output**: The notebooks display the original content image, the style image, and the stylized output.
 - **Style Threshold**: Multiple notebooks demonstrate the effect of varying the `style_threshold` parameter, showing a spectrum from pure content to pure style.
+- **Image Examples**: Here are some examples from the Notebooks
+  ![1764211826315](image/README/1764211826315.png)
+  ![1764211911211](image/README/1764211911211.png)
+  ![1764211920491](image/README/1764211920491.png)
+  ![1764211929734](image/README/1764211929734.png)
 
 ---
 
