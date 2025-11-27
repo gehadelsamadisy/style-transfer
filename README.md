@@ -74,8 +74,6 @@ _This approach demonstrates neural style transfer as an image optimization probl
 - **Image Examples**: Here are some examples from the Notebooks
   ![1764211826315](image/README/1764211826315.png)
   ![1764211911211](image/README/1764211911211.png)
-  ![1764211920491](image/README/1764211920491.png)
-  ![1764211929734](image/README/1764211929734.png)
 
 ---
 
